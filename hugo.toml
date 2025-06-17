@@ -2,3 +2,48 @@ baseURL = "https://mmoumni.com/"
 languageCode = "en-us"
 title = "mmoumni"
 theme = "terminal"
+
+[params]
+  # Use a wide layout (full-width)
+  fullWidth = false
+
+  # Add a reading time estimate
+  readingTime = true
+
+  # Custom author (if not globally defined)
+  author = "Mohamed Moumni"
+
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Mmoumni"
+
+    [languages.en.params]
+      subtitle = "A simple, retro theme for Hugo"
+      owner = ""
+      keywords = ""
+      copyright = ""
+      menuMore = "Show more"
+      readMore = "Read more"
+      readOtherPosts = "Read other posts"
+      newerPosts = "Newer posts"
+      olderPosts = "Older posts"
+      missingContentMessage = "Page not found..."
+      missingBackButtonLabel = "Back to home page"
+      minuteReadingTime = "min read"
+      words = "words"
+
+      [languages.en.params.logo]
+        logoText = "Mmoumni"
+        logoHomeLink = "/"
+
+      [languages.en.menu]
+        [[languages.en.menu.main]]
+          identifier = "about"
+          name = "About"
+          url = "/about"
+        [[languages.en.menu.main]]
+          identifier = "posts"
+          name = "Posts"
+          url = "/posts"
