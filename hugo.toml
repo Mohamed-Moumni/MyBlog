@@ -1,4 +1,4 @@
-baseURL = "https://www.mmoumni.com/"
+baseURL = "https://mmoumni.com/"
 languageCode = "en-us"
 title = "mmoumni"
 theme = "terminal"
