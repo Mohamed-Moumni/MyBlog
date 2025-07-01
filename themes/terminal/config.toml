@@ -1,0 +1,10 @@
+baseURL = 'https://Mohamed-Moumni.github.io/Myblog/'
+languageCode = 'en-us'
+title = 'mmoumni'
+theme = 'terminal'
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = '0.90.0'
+
