@@ -5,8 +5,7 @@ theme = "terminal"
 
 [params]
   centerTheme = true
-
-  # Add a reading time estimate
+  primaryColor = "#1a73e8"
   readingTime = true
 
   # Custom author (if not globally defined)
