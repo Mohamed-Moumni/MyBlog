@@ -4,7 +4,7 @@ date: 2025-06-17
 draft: false
 tags: ["low-level", "networking", "systems"]
 categories: ["dev"]
-slug: "custom-url"
+slug: "reimplementation-ping-command-in-c"
 description: "Reimplementing Ping in C: A Deep Dive into ICMP and Raw Sockets"
 keywords: ["C", "Networking", "TCP/IP", "ICMP"]
 ---
