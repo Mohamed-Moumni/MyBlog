@@ -4,8 +4,7 @@ title = "mmoumni"
 theme = "terminal"
 
 [params]
-  # Use a wide layout (full-width)
-  fullWidth = true
+  centerTheme = true
 
   # Add a reading time estimate
   readingTime = true
