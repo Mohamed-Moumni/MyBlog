@@ -18,7 +18,7 @@ Hi there 👋 I'm **Mohamed Moumni**, a passionate backend developer focused on 
 ## 🛠️ Skills
 
 - **Languages**: Python, C/C++, JAVA
-- **Frameworks**: SpringBoot
+- **Frameworks**: Django,
 - **Tools**: Git, GitLab CI, Docker, Kubernetes
 - **Methodologies**: TDD, clean code principles
 
