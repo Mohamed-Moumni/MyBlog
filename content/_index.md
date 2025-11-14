@@ -10,17 +10,20 @@ Hi there 👋 I'm **Mohamed Moumni**, a passionate backend developer focused on 
 
 ## 🚀 What I Do
 
-- 💻 **Backend Development** with a focus on Java & C/C++
-- 🐧 Exploring **Operating Systems** and **System Programming**
+- 💻 Backend Infrastructure & Systems Engineering with Go, C/C++
+- 🏗️ Building distributed systems, databases, and high-performance backend services
+- 🔧 Developing networking tools and low-level system components
+- 🐧 Deep diving into Operating Systems and performance optimization
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages**: Python, C/C++, JAVA
-- **Frameworks**: Django,
-- **Tools**: Git, GitLab CI, Docker, Kubernetes
-- **Methodologies**: TDD, clean code principles
+- **Languages**: Go, C/C++, Python, Js/Ts
+- **Systems**: Distributed Systems, Concurrency, Networking (TCP/IP, HTTP)
+- **Infrastructure**: Docker, Kubernetes, Linux Systems
+- **Databases**: Storage engines, replication, consistency models
+- **Tools**: Git/Github, Postman, 
 
 ---
 
