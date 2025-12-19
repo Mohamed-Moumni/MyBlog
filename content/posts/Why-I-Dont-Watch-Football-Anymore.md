@@ -1,6 +1,6 @@
 ---
 title: "Why i don't watch football anymore"
-date: 2025-12-06
+date: 2025-12-19
 draft: false
 tags: ["Reflection", "Ides",]
 categories: ["reflections",]
