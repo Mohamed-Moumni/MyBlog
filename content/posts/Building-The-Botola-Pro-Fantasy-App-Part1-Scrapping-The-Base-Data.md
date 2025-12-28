@@ -43,7 +43,7 @@ Finally, There’s the  core API, which handles all user actions within the app 
 
 I decoupled the application into 3 components, as shown below:
 
-![image.png](/public/images/Building-The-Botola-Pro-Fantasy-App-Part1-Scrapping-The-Base-Data/image1.png)
+![image.png](/images/Building-The-Botola-Pro-Fantasy-App-Part1-Scrapping-The-Base-Data/image1.png)
 
 This is My first version of the architecture, as i get more involved the project, new  constraints may appear, and the design will probably evolve.
 
@@ -84,15 +84,15 @@ To Accomplish this task I used:
 
 Here’s the Final Result of scrapping:
 
-![Teams Data](/public/images/Building-The-Botola-Pro-Fantasy-App-Part1-Scrapping-The-Base-Data/image2.png)
+![Teams Data](/images/Building-The-Botola-Pro-Fantasy-App-Part1-Scrapping-The-Base-Data/image2.png)
 
 Teams Data
 
-![Fixtures Data](/public/images/Building-The-Botola-Pro-Fantasy-App-Part1-Scrapping-The-Base-Data/image3.png)
+![Fixtures Data](/images/Building-The-Botola-Pro-Fantasy-App-Part1-Scrapping-The-Base-Data/image3.png)
 
 Fixtures Data
 
-![Players Data](/public/images/Building-The-Botola-Pro-Fantasy-App-Part1-Scrapping-The-Base-Data/image4.png)
+![Players Data](/images/Building-The-Botola-Pro-Fantasy-App-Part1-Scrapping-The-Base-Data/image4.png)
 
 Players Data
 
@@ -100,7 +100,7 @@ Players Data
 
 After defining the architecture of the project, I decided to start with the scraper Service and the UI design. I chose to begin with the Scraper Service because all the other services depend on it.
 
-![image.png](/public/images/Building-The-Botola-Pro-Fantasy-App-Part1-Scrapping-The-Base-Data/image5.png)
+![image.png](/images/Building-The-Botola-Pro-Fantasy-App-Part1-Scrapping-The-Base-Data/image5.png)
 
 As for the UI, I’m not very good at UI design, which is why I chose to work on it simultaneously with the Scraper Service.
 
