@@ -1,6 +1,6 @@
 ---
 title: "what I learned from the reimplementation of ping command in C"
-date: 2025-06-17
+date: 2025-12-31
 draft: false
 tags: ["low-level", "networking", "systems"]
 categories: ["dev"]
