@@ -1,12 +1,22 @@
 ---
-title: "what I learned from the reimplementation of ping command in C"
-date: 2025-06-17
+title: "Building the BotolaPro Fantasy App Part2: Build the Scraper Service"
+date: 2026-01-01
 draft: false
-tags: ["low-level", "networking", "systems"]
-categories: ["dev"]
-slug: "reimplementation-ping-command-in-c"
-description: "Reimplementing Ping in C: A Deep Dive into ICMP and Raw Sockets"
-keywords: ["C", "Networking", "TCP/IP", "ICMP"]
+tags: ["Backend", "software", "systems", "Architecture"]
+categories: ["Backend", "software", "Architecture"]
+slug: "Building the BotolaPro Fantasy App Part2: Build the Scraper Service"
+description: "Building the scraper service for the BotolaPro Fantasy App, focusing on web scraping techniques, API design, and integrating with SofaScore to extract match lineups and player statistics."
+keywords:
+  [
+    "Backend",
+    "Software Engineering",
+    "Systems",
+    "Fantasy Game",
+    "Mobile App",
+    "Architecture",
+    "Web Scraping",
+    "Python",
+  ]
 ---
 
 # Building the BotolaPro Fantasy App Part2: Build the Scraper Service
