@@ -39,7 +39,7 @@ So **What does this endpoint do, and What do the request and response look like?
 
 This endpoint scrapes the SofaScore website to retrieve the lineup for the match specified in the request. The lineup includes all the players who took part in the match, along with their statistics.
 
-![image2.png](images/building-the-botolapro-fantasy-app-part2-build-the-scraper-service/image1.png)
+![image2.png](/images/building-the-botolapro-fantasy-app-part2-build-the-scraper-service/image1.png)
 
 Players Scraping Cycle
 
