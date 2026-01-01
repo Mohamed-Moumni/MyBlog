@@ -183,7 +183,7 @@ Response Body Type: Json
             "statisticalVersion": 1
         }
 
-I don't think i need to make the this service Authenticable.
+I don’t think this service needs authentication.
 ```
 
 For more details you checkout the API docs at: [docs#/matches/match_lineup_api_v1_football_match_lineup_post)
