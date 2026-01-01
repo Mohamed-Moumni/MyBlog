@@ -39,7 +39,7 @@ So **What does this endpoint do, and What do the request and response look like?
 
 This endpoint scrapes the SofaScore website to retrieve the lineup for the match specified in the request. The lineup includes all the players who took part in the match, along with their statistics.
 
-![Players Scraping Cycle](/public/images/building-the-botolapro-fantasy-app-part2-build-the-scraper-service/image1.png)
+![image2.png](images/building-the-botolapro-fantasy-app-part2-build-the-scraper-service/image1.png)
 
 Players Scraping Cycle
 
@@ -186,7 +186,7 @@ Response Body Type: Json
 I don't think i need to make the this service Authenticable.
 ```
 
-For more details you checkout the API docs at: [docs#/matches/match_lineup_api_v1_football_match_lineup_post](http://localhost:8000/docs#/matches/match_lineup_api_v1_football_match_lineup_post)
+For more details you checkout the API docs at: [docs#/matches/match_lineup_api_v1_football_match_lineup_post)
 
 # How I built the Scraper Service:
 
@@ -204,9 +204,9 @@ But it’s not that simple. The SofaScore API is not publicly accessible; direct
 
 Once the cookies are obtained, they are injected into the request headers to access the API.
 
-![new_image.png](/public/images/building-the-botolapro-fantasy-app-part2-build-the-scraper-service/image2.png)
+![image2.png](/images/building-the-botolapro-fantasy-app-part2-build-the-scraper-service/image2.png)
 
-![Screenshot 2026-01-01 at 21.00.44.png](/public/images/building-the-botolapro-fantasy-app-part2-build-the-scraper-service/image3.png)
+![image3.png](/images/building-the-botolapro-fantasy-app-part2-build-the-scraper-service/image3.png)
 
 The service is simple for now but will be expanded with additional functionality later. Currently, it meets the Engine’s requirements for the Fantasy app MVP.
 
