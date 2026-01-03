@@ -11,4 +11,25 @@
 &lt;h1 id="introduction"&gt;Introduction:&lt;/h1&gt;
 &lt;p&gt;If you are following my previous blogs, you may have noticed that i wrote a blog post about why i stopped watching football. You might be thinking: what is this guy doing? He Said he stopped watching football, and now he’s trying to build football game. Let me clarify why i’m doing this.&lt;/p&gt;
 &lt;p&gt;My main Goal is to learn about mobile application development. While exploring ideas, I realized that there is no fantasy app for the Moroccan Botola Pro League. I thought this could be a good exercise to apply the skills I will learn during my mobile development journey, and it also seemed quite challenging.&lt;/p&gt;</description></item><item><title>Backend Engineering from the first Principles</title><link>https://mmoumni.com/posts/backend-engineering-from-the-first-principles/</link><pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate><guid>https://mmoumni.com/posts/backend-engineering-from-the-first-principles/</guid><description>&lt;p&gt;In this Era of AI, I often find myself reflecting on the software engineering field. I’ve observed several emerging patterns among new software engineers. Although i’m still a junior, I definitely see myself as part of that group.&lt;/p&gt;
-&lt;p&gt;New coming engineers are heavily relying on AI tools; however, they haven’t spent enough time building things that would give them the experience and knowledge needed to use those tools with real confidence. I’m referring to the core fundamentals of software engineering not frameworks or technologies that shift every few months.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;New coming engineers are heavily relying on AI tools; however, they haven’t spent enough time building things that would give them the experience and knowledge needed to use those tools with real confidence. I’m referring to the core fundamentals of software engineering not frameworks or technologies that shift every few months.&lt;/p&gt;</description></item><item><title>ft_nmap</title><link>https://mmoumni.com/projects/ft_nmap/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://mmoumni.com/projects/ft_nmap/</guid><description>&lt;h1 id="ft_nmap"&gt;ft_nmap&lt;/h1&gt;
+&lt;p&gt;A small project that re-implements parts of an &lt;code&gt;nmap&lt;/code&gt;-style port scanner in C. The goal is educational: to understand how a port scanner works (socket usage, scan strategies, parallelism, parsing IP lists, etc.) and to produce a compact, self-contained scanner executable.&lt;/p&gt;
+&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
+&lt;p&gt;In this project, I re-coded a part of the nmap port scanner to deepen my understanding of network scanning techniques, socket programming, and low-level networking concepts.&lt;/p&gt;
+&lt;h2 id="features"&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;TCP port scanning over a range of ports&lt;/li&gt;
+&lt;li&gt;Processing multiple IPs from a file&lt;/li&gt;
+&lt;li&gt;Modular architecture with separate components for scanning, parsing, and network mapping&lt;/li&gt;
+&lt;li&gt;CLI binary implemented in C&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="technologies-used"&gt;Technologies Used&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;C&lt;/strong&gt; - Core implementation language&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Socket Programming&lt;/strong&gt; - Raw sockets and network communication&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Make&lt;/strong&gt; - Build system&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="repository"&gt;Repository&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://github.com/Mohamed-Moumni/ft_nmap"&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</description></item><item><title>ft_ping</title><link>https://mmoumni.com/projects/ft_ping/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://mmoumni.com/projects/ft_ping/</guid><description>&lt;h1 id="ft_ping"&gt;ft_ping&lt;/h1&gt;
+&lt;p&gt;A complete reimplementation of the &lt;code&gt;ping&lt;/code&gt; command in C, built to understand how network diagnostics work at a low level. This project dives deep into the ICMP protocol, raw sockets, and the fundamentals of network programming.&lt;/p&gt;
+&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
+&lt;p&gt;The &lt;code&gt;ping&lt;/code&gt; command is a network administration utility used to test the reachability of a host on a network. Reimplementing it from scratch provides invaluable insights into how network protocols operate, how packets are constructed and sent, and how the operating system handles network communication.&lt;/p&gt;</description></item></channel></rss>
