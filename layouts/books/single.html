@@ -1,0 +1,38 @@
+{{ define "main" }}
+<article class="post">
+  <h1 class="post-title">
+    <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+  </h1>
+  <div class="post-meta">
+    {{- if .Date -}}
+      <time class="post-date">
+        {{- partial "post-date" . -}}
+      </time>
+    {{- end -}}
+    {{- with .Params.Author -}}
+      <span class="post-author">{{ . }}</span>
+    {{- end -}}
+  </div>
+
+  {{ if .Params.tags }}
+    <span class="post-tags">
+      {{ range .Params.tags }}
+      #<a href="{{ (urlize (printf "tags/%s/" .)) | absLangURL }}">{{ . }}</a>&nbsp;
+      {{ end }}
+    </span>
+  {{ end }}
+
+  {{ if .Params.notionLink }}
+    <div style="margin: 1rem 0; padding: 0.75rem; background: var(--theme); border-left: 3px solid var(--primary);">
+      <p style="margin: 0;">
+        📚 <strong>Original notes:</strong> <a href="{{ .Params.notionLink }}" target="_blank" rel="noopener">View on Notion</a>
+      </p>
+    </div>
+  {{ end }}
+
+  <div class="post-content">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}
+
