@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathematics on Mmoumni</title>
+    <link>http://localhost:8080/categories/mathematics/</link>
+    <description>Recent content in Mathematics on Mmoumni</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/categories/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FDF (Fil de Fer)</title>
+      <link>http://localhost:8080/projects/fdf/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/projects/fdf/</guid>
+      <description>&lt;h1 id=&#34;fdf-fil-de-fer&#34;&gt;FDF (Fil de Fer)&lt;/h1&gt;&#xA;&lt;p&gt;FDF, which stands for &amp;ldquo;Fil de Fer&amp;rdquo; (Wireframe in French), is a 3D wireframe renderer that takes height map data and renders it as a 3D wireframe visualization. This project explores 3D graphics programming, coordinate transformations, and mathematical projections.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:8080/images/projects/FDF/42.png&#34; alt=&#34;FDF 42 Map&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:8080/images/projects/FDF/julia.png&#34; alt=&#34;FDF Julia Set&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:8080/images/projects/FDF/Pyramide.png&#34; alt=&#34;FDF Pyramid&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;FDF is a 42 school project that teaches the fundamentals of 3D graphics by building a wireframe renderer from scratch. It takes a file containing height map data and renders it as a 3D wireframe model that can be rotated, scaled, and viewed from different angles.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

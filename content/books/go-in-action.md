@@ -13,5 +13,3 @@ tags: ["Go", "Programming", "Backend", "Software Engineering", "Concurrency"]
 
 ---
 
-📚 **Read my full notes on [Notion](https://www.notion.so/mmoumni/Go-In-Action-2ccd9a67df1580fea032c3c43c7f2665)**
-

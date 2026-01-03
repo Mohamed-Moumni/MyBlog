@@ -13,5 +13,3 @@ tags: ["API Design", "Web Development", "Backend", "Software Engineering", "REST
 
 ---
 
-📚 **Read my full notes on [Notion](https://www.notion.so/mmoumni/The-Design-of-Web-APIs-1aed9a67df1580048f55d1cda22d50fd)**
-

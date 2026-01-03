@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raycasting on Mmoumni</title>
+    <link>http://localhost:8080/tags/raycasting/</link>
+    <description>Recent content in Raycasting on Mmoumni</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/raycasting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>42 Cube3D</title>
+      <link>http://localhost:8080/projects/42_cube3d/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/projects/42_cube3d/</guid>
+      <description>&lt;h1 id=&#34;42-cube3d&#34;&gt;42 Cube3D&lt;/h1&gt;&#xA;&lt;p&gt;A 3D raycasting engine project that implements a Wolfenstein 3D-style game engine from scratch. This project explores computer graphics fundamentals, raycasting algorithms, and real-time rendering techniques.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:8080/images/projects/42_Cube3d/image.png&#34; alt=&#34;Cube3D Gameplay Screenshot 1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:8080/images/projects/42_Cube3d/image2.png&#34; alt=&#34;Cube3D Gameplay Screenshot 2&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Cube3D is a classic 42 school project that challenges you to build a 3D game engine using raycasting—a rendering technique that creates a 3D perspective from a 2D map. It&amp;rsquo;s an excellent way to understand how early 3D games worked and how graphics rendering algorithms function.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

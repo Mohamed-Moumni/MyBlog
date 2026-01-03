@@ -13,5 +13,3 @@ tags: ["Finance", "Psychology", "Behavioral Economics", "Personal Development"]
 
 ---
 
-📚 **Read my full notes on [Notion](https://www.notion.so/mmoumni/The-Psychology-Of-Money-7341264c6d1e42c092da5c5507434daa)**
-

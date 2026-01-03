@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on Mmoumni</title>
+    <link>http://localhost:8080/tags/security/</link>
+    <description>Recent content in Security on Mmoumni</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ft_nmap</title>
+      <link>http://localhost:8080/projects/ft_nmap/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/projects/ft_nmap/</guid>
+      <description>&lt;h1 id=&#34;ft_nmap&#34;&gt;ft_nmap&lt;/h1&gt;&#xA;&lt;p&gt;A small project that re-implements parts of an &lt;code&gt;nmap&lt;/code&gt;-style port scanner in C. The goal is educational: to understand how a port scanner works (socket usage, scan strategies, parallelism, parsing IP lists, etc.) and to produce a compact, self-contained scanner executable.&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;In this project, I re-coded a part of the nmap port scanner to deepen my understanding of network scanning techniques, socket programming, and low-level networking concepts.&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TCP port scanning over a range of ports&lt;/li&gt;&#xA;&lt;li&gt;Processing multiple IPs from a file&lt;/li&gt;&#xA;&lt;li&gt;Modular architecture with separate components for scanning, parsing, and network mapping&lt;/li&gt;&#xA;&lt;li&gt;CLI binary implemented in C&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;technologies-used&#34;&gt;Technologies Used&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;C&lt;/strong&gt; - Core implementation language&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Socket Programming&lt;/strong&gt; - Raw sockets and network communication&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Make&lt;/strong&gt; - Build system&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;repository&#34;&gt;Repository&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Mohamed-Moumni/ft_nmap&#34;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Architecture on Mmoumni</title>
+    <link>http://localhost:8080/categories/architecture/</link>
+    <description>Recent content in Architecture on Mmoumni</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/categories/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building the BotolaPro Fantasy App Part2: Build the Scraper Service</title>
+      <link>http://localhost:8080/posts/building-the-botolapro-fantasy-app-part2-build-the-scraper-service/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/posts/building-the-botolapro-fantasy-app-part2-build-the-scraper-service/</guid>
+      <description>&lt;h1 id=&#34;building-the-botolapro-fantasy-app-part2-build-the-scraper-service&#34;&gt;Building the BotolaPro Fantasy App Part2: Build the Scraper Service&lt;/h1&gt;&#xA;&lt;p&gt;To understand what this article is about, checkout the previous post at:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mmoumni.com/posts/building-the-botolapro-fantasy-app-part1-scrapping-the-base-data/&#34;&gt;https://mmoumni.com/posts/building-the-botolapro-fantasy-app-part1-scrapping-the-base-data&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the previous article, I discussed the high-level architecture of the entire application. In this article, I will focus on the scraper service.&lt;/p&gt;&#xA;&lt;h1 id=&#34;system-design&#34;&gt;System Design:&lt;/h1&gt;&#xA;&lt;p&gt;To avoid distracting myself with too many actions that the scraper API could support, I chose to start small and extend it as needs arise.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building the BotolaPro Fantasy App Part1: Scrapping the Base Data</title>
+      <link>http://localhost:8080/posts/building-the-botolapro-fantasy-app-part1-scrapping-the-base-data/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/posts/building-the-botolapro-fantasy-app-part1-scrapping-the-base-data/</guid>
+      <description>&lt;h1 id=&#34;building-the-botolapro-fantasy-app-part1-scrapping-the-base-data&#34;&gt;Building the BotolaPro Fantasy App Part1: Scrapping the Base Data&lt;/h1&gt;&#xA;&lt;h1 id=&#34;introduction&#34;&gt;Introduction:&lt;/h1&gt;&#xA;&lt;p&gt;If you are following my previous blogs, you may have noticed that i wrote a blog post about why i stopped watching football. You might be thinking: what is this guy doing? He Said he stopped watching football, and now he’s trying to build football game. Let me clarify why i’m doing this.&lt;/p&gt;&#xA;&lt;p&gt;My main Goal is to learn about mobile application development. While exploring ideas, I realized that there is no fantasy app for the Moroccan Botola Pro League. I thought this could be a good exercise to apply the skills I will learn during my mobile development journey, and it also seemed quite challenging.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

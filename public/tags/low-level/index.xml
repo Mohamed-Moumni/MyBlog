@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Low-Level on Mmoumni</title>
-    <link>http://localhost:1313/tags/low-level/</link>
+    <link>http://localhost:8080/tags/low-level/</link>
     <description>Recent content in Low-Level on Mmoumni</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/low-level/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/low-level/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>what I learned from the reimplementation of ping command in C</title>
-      <link>http://localhost:1313/posts/reimplementation-ping-command-in-c/</link>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/reimplementation-ping-command-in-c/</guid>
+      <link>http://localhost:8080/posts/reimplementation-ping-command-in-c/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/posts/reimplementation-ping-command-in-c/</guid>
       <description>&lt;p&gt;I’ve always struggled to fully grasp the networking side of software development — especially when it comes to network programming concepts like sockets, binding, TCP/IP, and protocols.&lt;/p&gt;&#xA;&lt;p&gt;So, I decided to take on the challenge and fill in the gaps in my understanding. To do that, I chose to reimplement three well-known networking commands: &lt;code&gt;ping&lt;/code&gt;, &lt;code&gt;traceroute&lt;/code&gt;, and a simplified version of &lt;code&gt;nmap&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;In this series of articles, I’ll explain each command in detail — its use case and how it works under the hood.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ft_ping</title>
+      <link>http://localhost:8080/projects/ft_ping/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/projects/ft_ping/</guid>
+      <description>&lt;h1 id=&#34;ft_ping&#34;&gt;ft_ping&lt;/h1&gt;&#xA;&lt;p&gt;A complete reimplementation of the &lt;code&gt;ping&lt;/code&gt; command in C, built to understand how network diagnostics work at a low level. This project dives deep into the ICMP protocol, raw sockets, and the fundamentals of network programming.&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;code&gt;ping&lt;/code&gt; command is a network administration utility used to test the reachability of a host on a network. Reimplementing it from scratch provides invaluable insights into how network protocols operate, how packets are constructed and sent, and how the operating system handles network communication.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

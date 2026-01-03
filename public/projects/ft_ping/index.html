@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=8080&amp;path=livereload" data-no-instant defer></script>
+  
+    <title>ft_ping :: Mmoumni</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="A reimplementation of the ping command in C, exploring ICMP protocol, raw sockets, and network diagnostics. Built to understand network programming fundamentals." />
+<meta name="keywords" content="" />
+
+  <meta name="robots" content="noodp" />
+
+<link rel="canonical" href="http://localhost:8080/projects/ft_ping/" />
+
+
+
+
+
+  
+  <link rel="stylesheet" href="http://localhost:8080/css/buttons.min.86f6b4c106b6c6eb690ae5203d36b442c1f66f718ff4e8164fa86cf6c61ad641.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:8080/css/code.min.d529ea4b2fb8d34328d7d31afc5466d5f7bc2f0bc9abdd98b69385335d7baee4.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:8080/css/fonts.min.5bb7ed13e1d00d8ff39ea84af26737007eb5051b157b86fc24487c94f3dc8bbe.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:8080/css/footer.min.eb8dfc2c6a7eafa36cd3ba92d63e69e849e2200e0002a228d137f236b09ecd75.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:8080/css/gist.min.a751e8b0abe1ba8bc53ced52a38b19d8950fe78ca29454ea8c2595cf26aad5c0.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:8080/css/header.min.75c7eb0e2872d95ff48109c6647d0223a38db52e2561dd87966eb5fc7c6bdac6.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:8080/css/main.min.775ac2af004d44c22a6d000fbd1d9af529642f5cef27399d0280d180af2c2e9b.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:8080/css/menu.min.310d32205bdedd6f43144e3c3273c9deecd238eba5f9108db5ea96ca0cfbe377.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:8080/css/pagination.min.bbb986dbce00a5ce5aca0504b7925fc1c581992a4bf57f163e5d69cc1db7d836.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:8080/css/post.min.ad50c7f4d00e7975918f37fc74c6029e1959a40d66fb5b2c6564a8715e985573.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:8080/css/syntax.min.e9ab635cf918bc84b901eb65c0b2caa74c9544245e3647c1af5c129896ef276e.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:8080/css/terminal.min.280907784775097235397767fff50950ad71527ae16e7a32b7155c64fe5af36a.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:8080/css/terms.min.b81791663c3790e738e571cdbf802312390d30e4b1d8dc9d814a5b5454d0ac11.css">
+
+
+
+
+
+
+
+<link rel="shortcut icon" href="http://localhost:8080/favicon.png">
+<link rel="apple-touch-icon" href="http://localhost:8080/apple-touch-icon.png">
+
+
+<meta name="twitter:card" content="summary" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="ft_ping">
+<meta property="og:description" content="A reimplementation of the ping command in C, exploring ICMP protocol, raw sockets, and network diagnostics. Built to understand network programming fundamentals." />
+<meta property="og:url" content="http://localhost:8080/projects/ft_ping/" />
+<meta property="og:site_name" content="Mmoumni" />
+
+  <meta property="og:image" content="http://localhost:8080/og-image.png">
+
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="627">
+
+  <meta property="article:section" content="Systems" />
+
+  <meta property="article:section" content="Networking" />
+
+
+  <meta property="article:published_time" content="2025-01-01 00:00:00 &#43;0000 UTC" />
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+
+
+<div class="container center">
+
+  <header class="header">
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-3CDJTP2KEC"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  
+    gtag('config', 'G-3CDJTP2KEC');
+  </script>
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="/">
+  <div class="logo">
+    Mmoumni
+  </div>
+</a>
+
+    </div>
+    
+      <ul class="menu menu--mobile">
+  <li class="menu__trigger">Menu&nbsp;▾</li>
+  <li>
+    <ul class="menu__dropdown">
+      
+        
+          <li><a href="/">About</a></li>
+        
+      
+        
+          <li><a href="/books">Books</a></li>
+        
+      
+        
+          <li><a href="/posts">Posts</a></li>
+        
+      
+        
+          <li><a href="/projects">Projects</a></li>
+        
+      
+      
+    </ul>
+  </li>
+</ul>
+
+    
+    
+  </div>
+  
+    <nav class="navigation-menu">
+  <ul class="navigation-menu__inner menu--desktop">
+    
+      
+        
+          <li><a href="/" >About</a></li>
+        
+      
+        
+          <li><a href="/books" >Books</a></li>
+        
+      
+        
+          <li><a href="/posts" >Posts</a></li>
+        
+      
+        
+          <li><a href="/projects" >Projects</a></li>
+        
+      
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+<article class="post">
+  <h1 class="post-title">
+    <a href="http://localhost:8080/projects/ft_ping/">ft_ping</a>
+  </h1>
+  <div class="post-meta"><time class="post-date">2025-01-01</time><span class="post-reading-time">2 min read (248 words)</span></div>
+
+  
+    <span class="post-tags">
+      
+      #<a href="http://localhost:8080/tags/c/">C</a>&nbsp;
+      
+      #<a href="http://localhost:8080/tags/networking/">Networking</a>&nbsp;
+      
+      #<a href="http://localhost:8080/tags/icmp/">ICMP</a>&nbsp;
+      
+      #<a href="http://localhost:8080/tags/systems/">Systems</a>&nbsp;
+      
+      #<a href="http://localhost:8080/tags/low-level/">Low-Level</a>&nbsp;
+      
+    </span>
+  
+  
+
+
+  
+
+  <div class="post-content"><div>
+        <h1 id="ft_ping">ft_ping<a href="#ft_ping" class="hanchor" ariaLabel="Anchor">#</a> </h1>
+<p>A complete reimplementation of the <code>ping</code> command in C, built to understand how network diagnostics work at a low level. This project dives deep into the ICMP protocol, raw sockets, and the fundamentals of network programming.</p>
+<h2 id="overview">Overview<a href="#overview" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<p>The <code>ping</code> command is a network administration utility used to test the reachability of a host on a network. Reimplementing it from scratch provides invaluable insights into how network protocols operate, how packets are constructed and sent, and how the operating system handles network communication.</p>
+<h2 id="features">Features<a href="#features" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<ul>
+<li>ICMP Echo Request/Reply implementation</li>
+<li>Raw socket programming</li>
+<li>Hostname resolution using <code>getaddrinfo()</code></li>
+<li>Round-trip time (RTT) calculation</li>
+<li>Packet statistics (sent, received, loss percentage)</li>
+<li>Signal handling for timing and interruption</li>
+</ul>
+<h2 id="how-it-works">How It Works<a href="#how-it-works" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<p>The implementation is broken down into four main components:</p>
+<ol>
+<li><strong>Argument Parsing</strong> - Handles command-line arguments and validates input</li>
+<li><strong>Socket Setup</strong> - Creates raw sockets and resolves hostnames to IP addresses</li>
+<li><strong>Ping Loop</strong> - Sends ICMP Echo Requests and receives Echo Replies at regular intervals</li>
+<li><strong>Statistics Output</strong> - Displays comprehensive ping statistics including RTT, TTL, and packet loss</li>
+</ol>
+<p>The project uses the ICMP protocol (Internet Control Message Protocol) at the Network Layer, crafting ICMP packets with proper headers including type, code, checksum, identifier, and sequence number.</p>
+<h2 id="technologies-used">Technologies Used<a href="#technologies-used" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<ul>
+<li><strong>C</strong> - Core implementation language</li>
+<li><strong>Raw Sockets</strong> - Low-level network access</li>
+<li><strong>ICMP Protocol</strong> - Internet Control Message Protocol</li>
+<li><strong>Signal Handling</strong> - For timing and process control</li>
+</ul>
+<h2 id="related-blog-post">Related Blog Post<a href="#related-blog-post" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<p>I wrote a detailed blog post about this project: <a href="/posts/reimplementation-ping-command-in-c/">Reimplementation of the Ping Command</a></p>
+<h2 id="repository">Repository<a href="#repository" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<p><a href="https://github.com/Mohamed-Moumni/ft_ping">View on GitHub</a></p>
+
+      </div></div>
+
+  
+
+  
+    
+
+  
+</article>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright">
+        <span>© 2026 Powered by <a href="https://gohugo.io">Hugo</a></span>
+    
+      <span>:: <a href="https://github.com/panr/hugo-theme-terminal" target="_blank">Theme</a> made by <a href="https://github.com/panr" target="_blank">panr</a></span>
+      </div>
+  </div>
+</footer>
+
+
+
+
+
+
+<script type="text/javascript" src="/bundle.min.js"></script>
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>

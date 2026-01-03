@@ -13,5 +13,4 @@ tags: ["Productivity", "Focus", "Work", "Professional Development"]
 
 ---
 
-📚 **Read my full notes on [Notion](https://www.notion.so/mmoumni/Deep-Work-0f361dba1518424fb8e2b7b4bdab67d9)**
 

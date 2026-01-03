@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Behavioral Economics on Mmoumni</title>
+    <link>http://localhost:8080/tags/behavioral-economics/</link>
+    <description>Recent content in Behavioral Economics on Mmoumni</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/behavioral-economics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Psychology Of Money</title>
+      <link>http://localhost:8080/books/the-psychology-of-money/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/books/the-psychology-of-money/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;The Psychology of Money&lt;/em&gt; by Morgan Housel explores the behavioral and psychological aspects of financial decision-making. The book reveals that making smart financial decisions isn&amp;rsquo;t strongly related to intelligence or education, but rather to understanding the behavioral side of money management.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Financial decisions are behavioral, not intellectual&lt;/strong&gt; - Good financial decisions depend more on behavior than on how smart or educated you are.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Luck and Risk&lt;/strong&gt; - Every outcome in life is guided by forces other than individual effort. Nothing is as good or as bad as it seems.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

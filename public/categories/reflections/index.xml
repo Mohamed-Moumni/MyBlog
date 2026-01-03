@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reflections on Mmoumni</title>
+    <link>http://localhost:8080/categories/reflections/</link>
+    <description>Recent content in Reflections on Mmoumni</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/categories/reflections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why i don&#39;t watch football anymore</title>
+      <link>http://localhost:8080/posts/why-i-dont-watch-football-anymore/</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/posts/why-i-dont-watch-football-anymore/</guid>
+      <description>&lt;h1 id=&#34;why-i-dont-watch-football-anymore&#34;&gt;Why i don&amp;rsquo;t watch football anymore&lt;/h1&gt;&#xA;&lt;p&gt;Don’t get me wrong i’ve been a football fan since I was 6 years old. I started by watching matches from our local league in morocco as well as games of our national team. I was obsessed with the sport: team histories, player’s names, and famous figures in the league.&lt;/p&gt;&#xA;&lt;p&gt;As I got older, I began following international leagues such as la liga in spain and the Premier league in UK, along with major international competitions like the world cup and the African Cup.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Social Dilemma</title>
+      <link>http://localhost:8080/posts/the-social-dilemma/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/posts/the-social-dilemma/</guid>
+      <description>&lt;p&gt;I think about this subject every now and then, usually when i realize how much time i&amp;rsquo;ve been spending on social media. I keep asking myself why i can&amp;rsquo;t stop chekcing those apps. it feels like i&amp;rsquo;m missing something important, but in reality it&amp;rsquo;s just my brain craving a quick dopamine hit.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve deleted my facebook and instagram accounts multiple times, only to return again. it&amp;rsquo;s hard for me to cut myself off completely. Every time i try, it feels like i&amp;rsquo;m disconnecting from what&amp;rsquo;s happening in the world, especially in my field &amp;ndash; software engineering.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

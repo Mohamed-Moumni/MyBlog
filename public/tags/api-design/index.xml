@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>API Design on Mmoumni</title>
+    <link>http://localhost:8080/tags/api-design/</link>
+    <description>Recent content in API Design on Mmoumni</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/api-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Design of Web APIs</title>
+      <link>http://localhost:8080/books/the-design-of-web-apis/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/books/the-design-of-web-apis/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;The Design of Web APIs&lt;/em&gt; provides comprehensive guidance on designing well-structured, consumer-friendly web APIs. The book covers fundamental principles of API design, focusing on creating intuitive, consistent, and easy-to-use interfaces that prioritize the consumer&amp;rsquo;s perspective.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fundamentals of API Design&lt;/strong&gt; - An API interface should be an easy-to-understand and easy-to-use representation of what users can do, without bothering them with irrelevant inner-working concerns.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Consumer Perspective&lt;/strong&gt; - Always try to avoid the provider perspective when designing your API. Consumers don&amp;rsquo;t care about your software architecture choices; they care about seeing all the information they need easily.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -2,18 +2,144 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Me on Mmoumni</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:8080/</link>
     <description>Recent content in About Me on Mmoumni</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn Concurrent Programming In Go</title>
+      <link>http://localhost:8080/books/learn-concurrent-programming-in-go/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/books/learn-concurrent-programming-in-go/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Learn Concurrent Programming In Go&lt;/em&gt; provides a comprehensive guide to building concurrent applications using Go&amp;rsquo;s powerful concurrency primitives. The book covers goroutines, channels, and patterns for building responsive and high-performance software.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Stepping into Concurrent Programming in Go&lt;/strong&gt; - Concurrent programming allows us to build more responsive software. Concurrent programs can also provide increased speedup when running on multiple processors.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;my-thoughts&#34;&gt;My Thoughts&lt;/h2&gt;&#xA;&lt;p&gt;An essential resource for mastering Go&amp;rsquo;s concurrency features and building efficient, scalable concurrent applications.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Same as Ever</title>
+      <link>http://localhost:8080/books/same-as-ever/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/books/same-as-ever/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Same as Ever&lt;/em&gt; by Morgan Housel explores timeless principles of human behavior, risk, expectations, and storytelling that remain constant despite changing times. The book examines fundamental truths about how people think, make decisions, and navigate uncertainty.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hanging by a Thread&lt;/strong&gt; - If you know where we have been, you realize we have no idea where we&amp;rsquo;re going.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Risk is What You Don&amp;rsquo;t See&lt;/strong&gt; - Risk is what&amp;rsquo;s left over after you think you&amp;rsquo;ve thought of everything. Risk is all the things that came surprisingly into your life without alerting you.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building the BotolaPro Fantasy App Part2: Build the Scraper Service</title>
+      <link>http://localhost:8080/posts/building-the-botolapro-fantasy-app-part2-build-the-scraper-service/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/posts/building-the-botolapro-fantasy-app-part2-build-the-scraper-service/</guid>
+      <description>&lt;h1 id=&#34;building-the-botolapro-fantasy-app-part2-build-the-scraper-service&#34;&gt;Building the BotolaPro Fantasy App Part2: Build the Scraper Service&lt;/h1&gt;&#xA;&lt;p&gt;To understand what this article is about, checkout the previous post at:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mmoumni.com/posts/building-the-botolapro-fantasy-app-part1-scrapping-the-base-data/&#34;&gt;https://mmoumni.com/posts/building-the-botolapro-fantasy-app-part1-scrapping-the-base-data&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the previous article, I discussed the high-level architecture of the entire application. In this article, I will focus on the scraper service.&lt;/p&gt;&#xA;&lt;h1 id=&#34;system-design&#34;&gt;System Design:&lt;/h1&gt;&#xA;&lt;p&gt;To avoid distracting myself with too many actions that the scraper API could support, I chose to start small and extend it as needs arise.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>what I learned from the reimplementation of ping command in C</title>
-      <link>http://localhost:1313/posts/reimplementation-ping-command-in-c/</link>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/reimplementation-ping-command-in-c/</guid>
+      <link>http://localhost:8080/posts/reimplementation-ping-command-in-c/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/posts/reimplementation-ping-command-in-c/</guid>
       <description>&lt;p&gt;I’ve always struggled to fully grasp the networking side of software development — especially when it comes to network programming concepts like sockets, binding, TCP/IP, and protocols.&lt;/p&gt;&#xA;&lt;p&gt;So, I decided to take on the challenge and fill in the gaps in my understanding. To do that, I chose to reimplement three well-known networking commands: &lt;code&gt;ping&lt;/code&gt;, &lt;code&gt;traceroute&lt;/code&gt;, and a simplified version of &lt;code&gt;nmap&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;In this series of articles, I’ll explain each command in detail — its use case and how it works under the hood.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building the BotolaPro Fantasy App Part1: Scrapping the Base Data</title>
+      <link>http://localhost:8080/posts/building-the-botolapro-fantasy-app-part1-scrapping-the-base-data/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/posts/building-the-botolapro-fantasy-app-part1-scrapping-the-base-data/</guid>
+      <description>&lt;h1 id=&#34;building-the-botolapro-fantasy-app-part1-scrapping-the-base-data&#34;&gt;Building the BotolaPro Fantasy App Part1: Scrapping the Base Data&lt;/h1&gt;&#xA;&lt;h1 id=&#34;introduction&#34;&gt;Introduction:&lt;/h1&gt;&#xA;&lt;p&gt;If you are following my previous blogs, you may have noticed that i wrote a blog post about why i stopped watching football. You might be thinking: what is this guy doing? He Said he stopped watching football, and now he’s trying to build football game. Let me clarify why i’m doing this.&lt;/p&gt;&#xA;&lt;p&gt;My main Goal is to learn about mobile application development. While exploring ideas, I realized that there is no fantasy app for the Moroccan Botola Pro League. I thought this could be a good exercise to apply the skills I will learn during my mobile development journey, and it also seemed quite challenging.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Go In Action</title>
+      <link>http://localhost:8080/books/go-in-action/</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/books/go-in-action/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Go In Action&lt;/em&gt; is a practical guide to the Go programming language that covers core concepts and demonstrates how to build real-world applications. The book provides hands-on examples and covers essential Go features including concurrency, packages, and best practices.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;&#xA;&lt;p&gt;This book covers various chapters on Go programming fundamentals, including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Chapter 2&lt;/strong&gt; - Core Go concepts and language fundamentals&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Chapter 4&lt;/strong&gt; - Advanced Go features and patterns&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Chapter 5&lt;/strong&gt; - Building applications with Go&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Chapter 6&lt;/strong&gt; - Practical implementation techniques&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;my-thoughts&#34;&gt;My Thoughts&lt;/h2&gt;&#xA;&lt;p&gt;A comprehensive guide for learning Go programming through practical examples and real-world application development.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why i don&#39;t watch football anymore</title>
+      <link>http://localhost:8080/posts/why-i-dont-watch-football-anymore/</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/posts/why-i-dont-watch-football-anymore/</guid>
+      <description>&lt;h1 id=&#34;why-i-dont-watch-football-anymore&#34;&gt;Why i don&amp;rsquo;t watch football anymore&lt;/h1&gt;&#xA;&lt;p&gt;Don’t get me wrong i’ve been a football fan since I was 6 years old. I started by watching matches from our local league in morocco as well as games of our national team. I was obsessed with the sport: team histories, player’s names, and famous figures in the league.&lt;/p&gt;&#xA;&lt;p&gt;As I got older, I began following international leagues such as la liga in spain and the Premier league in UK, along with major international competitions like the world cup and the African Cup.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Backend Engineering from the first Principles</title>
+      <link>http://localhost:8080/posts/backend-engineering-from-the-first-principles/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/posts/backend-engineering-from-the-first-principles/</guid>
+      <description>&lt;p&gt;In this Era of AI, I often find myself reflecting on the software engineering field. I’ve observed several emerging patterns among new software engineers. Although i’m still a junior, I definitely see myself as part of that group.&lt;/p&gt;&#xA;&lt;p&gt;New coming engineers are heavily relying on AI tools; however, they haven’t spent enough time building things that would give them the experience and knowledge needed to use those tools with real confidence. I’m referring to the core fundamentals of software engineering not frameworks or technologies that shift every few months.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Social Dilemma</title>
+      <link>http://localhost:8080/posts/the-social-dilemma/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/posts/the-social-dilemma/</guid>
+      <description>&lt;p&gt;I think about this subject every now and then, usually when i realize how much time i&amp;rsquo;ve been spending on social media. I keep asking myself why i can&amp;rsquo;t stop chekcing those apps. it feels like i&amp;rsquo;m missing something important, but in reality it&amp;rsquo;s just my brain craving a quick dopamine hit.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve deleted my facebook and instagram accounts multiple times, only to return again. it&amp;rsquo;s hard for me to cut myself off completely. Every time i try, it feels like i&amp;rsquo;m disconnecting from what&amp;rsquo;s happening in the world, especially in my field &amp;ndash; software engineering.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Design of Web APIs</title>
+      <link>http://localhost:8080/books/the-design-of-web-apis/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/books/the-design-of-web-apis/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;The Design of Web APIs&lt;/em&gt; provides comprehensive guidance on designing well-structured, consumer-friendly web APIs. The book covers fundamental principles of API design, focusing on creating intuitive, consistent, and easy-to-use interfaces that prioritize the consumer&amp;rsquo;s perspective.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fundamentals of API Design&lt;/strong&gt; - An API interface should be an easy-to-understand and easy-to-use representation of what users can do, without bothering them with irrelevant inner-working concerns.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Consumer Perspective&lt;/strong&gt; - Always try to avoid the provider perspective when designing your API. Consumers don&amp;rsquo;t care about your software architecture choices; they care about seeing all the information they need easily.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>42 Cube3D</title>
+      <link>http://localhost:8080/projects/42_cube3d/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/projects/42_cube3d/</guid>
+      <description>&lt;h1 id=&#34;42-cube3d&#34;&gt;42 Cube3D&lt;/h1&gt;&#xA;&lt;p&gt;A 3D raycasting engine project that implements a Wolfenstein 3D-style game engine from scratch. This project explores computer graphics fundamentals, raycasting algorithms, and real-time rendering techniques.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:8080/images/projects/42_Cube3d/image.png&#34; alt=&#34;Cube3D Gameplay Screenshot 1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:8080/images/projects/42_Cube3d/image2.png&#34; alt=&#34;Cube3D Gameplay Screenshot 2&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Cube3D is a classic 42 school project that challenges you to build a 3D game engine using raycasting—a rendering technique that creates a 3D perspective from a 2D map. It&amp;rsquo;s an excellent way to understand how early 3D games worked and how graphics rendering algorithms function.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Book Title</title>
+      <link>http://localhost:8080/books/_template/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/books/_template/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;Write your book summary and notes here. This content will be displayed on your blog.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Point 1&lt;/li&gt;&#xA;&lt;li&gt;Point 2&lt;/li&gt;&#xA;&lt;li&gt;Point 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;my-thoughts&#34;&gt;My Thoughts&lt;/h2&gt;&#xA;&lt;p&gt;Add your personal thoughts and reflections about the book here.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;💡 &lt;strong&gt;Note:&lt;/strong&gt; You can copy your content from Notion and paste it here. The original Notion page link will be displayed at the top if you include the &lt;code&gt;notionLink&lt;/code&gt; parameter.&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>FDF (Fil de Fer)</title>
+      <link>http://localhost:8080/projects/fdf/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/projects/fdf/</guid>
+      <description>&lt;h1 id=&#34;fdf-fil-de-fer&#34;&gt;FDF (Fil de Fer)&lt;/h1&gt;&#xA;&lt;p&gt;FDF, which stands for &amp;ldquo;Fil de Fer&amp;rdquo; (Wireframe in French), is a 3D wireframe renderer that takes height map data and renders it as a 3D wireframe visualization. This project explores 3D graphics programming, coordinate transformations, and mathematical projections.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:8080/images/projects/FDF/42.png&#34; alt=&#34;FDF 42 Map&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:8080/images/projects/FDF/julia.png&#34; alt=&#34;FDF Julia Set&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:8080/images/projects/FDF/Pyramide.png&#34; alt=&#34;FDF Pyramid&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;FDF is a 42 school project that teaches the fundamentals of 3D graphics by building a wireframe renderer from scratch. It takes a file containing height map data and renders it as a 3D wireframe model that can be rotated, scaled, and viewed from different angles.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ft_nmap</title>
+      <link>http://localhost:8080/projects/ft_nmap/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/projects/ft_nmap/</guid>
+      <description>&lt;h1 id=&#34;ft_nmap&#34;&gt;ft_nmap&lt;/h1&gt;&#xA;&lt;p&gt;A small project that re-implements parts of an &lt;code&gt;nmap&lt;/code&gt;-style port scanner in C. The goal is educational: to understand how a port scanner works (socket usage, scan strategies, parallelism, parsing IP lists, etc.) and to produce a compact, self-contained scanner executable.&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;In this project, I re-coded a part of the nmap port scanner to deepen my understanding of network scanning techniques, socket programming, and low-level networking concepts.&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TCP port scanning over a range of ports&lt;/li&gt;&#xA;&lt;li&gt;Processing multiple IPs from a file&lt;/li&gt;&#xA;&lt;li&gt;Modular architecture with separate components for scanning, parsing, and network mapping&lt;/li&gt;&#xA;&lt;li&gt;CLI binary implemented in C&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;technologies-used&#34;&gt;Technologies Used&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;C&lt;/strong&gt; - Core implementation language&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Socket Programming&lt;/strong&gt; - Raw sockets and network communication&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Make&lt;/strong&gt; - Build system&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;repository&#34;&gt;Repository&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Mohamed-Moumni/ft_nmap&#34;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ft_ping</title>
+      <link>http://localhost:8080/projects/ft_ping/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/projects/ft_ping/</guid>
+      <description>&lt;h1 id=&#34;ft_ping&#34;&gt;ft_ping&lt;/h1&gt;&#xA;&lt;p&gt;A complete reimplementation of the &lt;code&gt;ping&lt;/code&gt; command in C, built to understand how network diagnostics work at a low level. This project dives deep into the ICMP protocol, raw sockets, and the fundamentals of network programming.&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;code&gt;ping&lt;/code&gt; command is a network administration utility used to test the reachability of a host on a network. Reimplementing it from scratch provides invaluable insights into how network protocols operate, how packets are constructed and sent, and how the operating system handles network communication.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HTTP WebServer</title>
+      <link>http://localhost:8080/projects/http-webserver/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/projects/http-webserver/</guid>
+      <description>&lt;h1 id=&#34;http-webserver&#34;&gt;HTTP WebServer&lt;/h1&gt;&#xA;&lt;p&gt;This project is about writing an HTTP server from scratch and learning about how the HTTP protocol works around the web. It&amp;rsquo;s a hands-on exploration of web server architecture, request handling, and protocol implementation.&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Building an HTTP server from the ground up provides deep insights into how web applications communicate, how requests are parsed, and how responses are constructed and sent back to clients.&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTTP request parsing&lt;/li&gt;&#xA;&lt;li&gt;HTTP response generation&lt;/li&gt;&#xA;&lt;li&gt;Static file serving&lt;/li&gt;&#xA;&lt;li&gt;Support for multiple HTTP methods&lt;/li&gt;&#xA;&lt;li&gt;Modular server architecture&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;technologies-used&#34;&gt;Technologies Used&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;C++&lt;/strong&gt; - Core implementation language&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;HTML/CSS&lt;/strong&gt; - Web content&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Socket Programming&lt;/strong&gt; - Network communication&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Make&lt;/strong&gt; - Build system&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;repository&#34;&gt;Repository&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Mohamed-Moumni/HTTP-WebServer&#34;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deep Work</title>
+      <link>http://localhost:8080/books/deep-work/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/books/deep-work/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Deep Work&lt;/em&gt; by Cal Newport argues that the ability to perform deep, focused work is becoming increasingly rare and valuable in our economy. The book provides strategies for cultivating the ability to work without distraction on cognitively demanding tasks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Deep Work is Valuable&lt;/strong&gt; - In the new economy, three groups have advantages: those who work effectively with intelligent machines, those who are the best at what they do, and those with access to capital. If you can&amp;rsquo;t learn, you can&amp;rsquo;t thrive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Mind For Numbers</title>
+      <link>http://localhost:8080/books/a-mind-for-numbers/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/books/a-mind-for-numbers/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;A Mind For Numbers&lt;/em&gt; by Barbara Oakley provides practical techniques for learning effectively and mastering challenging subjects. The book covers essential learning strategies including chunking, memory enhancement, procrastination prevention, and evidence-based study methods.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Chunking&lt;/strong&gt; - Break down complex information into manageable chunks by focusing attention, understanding the basic idea, and gaining context for when to use it.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Avoiding Illusions of Competence&lt;/strong&gt; - You must have information persisting in your memory to master material. Practice recalling material outside your usual study place.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Psychology Of Money</title>
+      <link>http://localhost:8080/books/the-psychology-of-money/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/books/the-psychology-of-money/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;The Psychology of Money&lt;/em&gt; by Morgan Housel explores the behavioral and psychological aspects of financial decision-making. The book reveals that making smart financial decisions isn&amp;rsquo;t strongly related to intelligence or education, but rather to understanding the behavioral side of money management.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Financial decisions are behavioral, not intellectual&lt;/strong&gt; - Good financial decisions depend more on behavior than on how smart or educated you are.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Luck and Risk&lt;/strong&gt; - Every outcome in life is guided by forces other than individual effort. Nothing is as good or as bad as it seems.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

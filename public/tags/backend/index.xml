@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Backend on Mmoumni</title>
+    <link>http://localhost:8080/tags/backend/</link>
+    <description>Recent content in Backend on Mmoumni</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/backend/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn Concurrent Programming In Go</title>
+      <link>http://localhost:8080/books/learn-concurrent-programming-in-go/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/books/learn-concurrent-programming-in-go/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Learn Concurrent Programming In Go&lt;/em&gt; provides a comprehensive guide to building concurrent applications using Go&amp;rsquo;s powerful concurrency primitives. The book covers goroutines, channels, and patterns for building responsive and high-performance software.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Stepping into Concurrent Programming in Go&lt;/strong&gt; - Concurrent programming allows us to build more responsive software. Concurrent programs can also provide increased speedup when running on multiple processors.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;my-thoughts&#34;&gt;My Thoughts&lt;/h2&gt;&#xA;&lt;p&gt;An essential resource for mastering Go&amp;rsquo;s concurrency features and building efficient, scalable concurrent applications.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building the BotolaPro Fantasy App Part2: Build the Scraper Service</title>
+      <link>http://localhost:8080/posts/building-the-botolapro-fantasy-app-part2-build-the-scraper-service/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/posts/building-the-botolapro-fantasy-app-part2-build-the-scraper-service/</guid>
+      <description>&lt;h1 id=&#34;building-the-botolapro-fantasy-app-part2-build-the-scraper-service&#34;&gt;Building the BotolaPro Fantasy App Part2: Build the Scraper Service&lt;/h1&gt;&#xA;&lt;p&gt;To understand what this article is about, checkout the previous post at:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mmoumni.com/posts/building-the-botolapro-fantasy-app-part1-scrapping-the-base-data/&#34;&gt;https://mmoumni.com/posts/building-the-botolapro-fantasy-app-part1-scrapping-the-base-data&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the previous article, I discussed the high-level architecture of the entire application. In this article, I will focus on the scraper service.&lt;/p&gt;&#xA;&lt;h1 id=&#34;system-design&#34;&gt;System Design:&lt;/h1&gt;&#xA;&lt;p&gt;To avoid distracting myself with too many actions that the scraper API could support, I chose to start small and extend it as needs arise.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building the BotolaPro Fantasy App Part1: Scrapping the Base Data</title>
+      <link>http://localhost:8080/posts/building-the-botolapro-fantasy-app-part1-scrapping-the-base-data/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/posts/building-the-botolapro-fantasy-app-part1-scrapping-the-base-data/</guid>
+      <description>&lt;h1 id=&#34;building-the-botolapro-fantasy-app-part1-scrapping-the-base-data&#34;&gt;Building the BotolaPro Fantasy App Part1: Scrapping the Base Data&lt;/h1&gt;&#xA;&lt;h1 id=&#34;introduction&#34;&gt;Introduction:&lt;/h1&gt;&#xA;&lt;p&gt;If you are following my previous blogs, you may have noticed that i wrote a blog post about why i stopped watching football. You might be thinking: what is this guy doing? He Said he stopped watching football, and now he’s trying to build football game. Let me clarify why i’m doing this.&lt;/p&gt;&#xA;&lt;p&gt;My main Goal is to learn about mobile application development. While exploring ideas, I realized that there is no fantasy app for the Moroccan Botola Pro League. I thought this could be a good exercise to apply the skills I will learn during my mobile development journey, and it also seemed quite challenging.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Go In Action</title>
+      <link>http://localhost:8080/books/go-in-action/</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/books/go-in-action/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Go In Action&lt;/em&gt; is a practical guide to the Go programming language that covers core concepts and demonstrates how to build real-world applications. The book provides hands-on examples and covers essential Go features including concurrency, packages, and best practices.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;&#xA;&lt;p&gt;This book covers various chapters on Go programming fundamentals, including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Chapter 2&lt;/strong&gt; - Core Go concepts and language fundamentals&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Chapter 4&lt;/strong&gt; - Advanced Go features and patterns&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Chapter 5&lt;/strong&gt; - Building applications with Go&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Chapter 6&lt;/strong&gt; - Practical implementation techniques&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;my-thoughts&#34;&gt;My Thoughts&lt;/h2&gt;&#xA;&lt;p&gt;A comprehensive guide for learning Go programming through practical examples and real-world application development.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Backend Engineering from the first Principles</title>
+      <link>http://localhost:8080/posts/backend-engineering-from-the-first-principles/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/posts/backend-engineering-from-the-first-principles/</guid>
+      <description>&lt;p&gt;In this Era of AI, I often find myself reflecting on the software engineering field. I’ve observed several emerging patterns among new software engineers. Although i’m still a junior, I definitely see myself as part of that group.&lt;/p&gt;&#xA;&lt;p&gt;New coming engineers are heavily relying on AI tools; however, they haven’t spent enough time building things that would give them the experience and knowledge needed to use those tools with real confidence. I’m referring to the core fundamentals of software engineering not frameworks or technologies that shift every few months.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Design of Web APIs</title>
+      <link>http://localhost:8080/books/the-design-of-web-apis/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/books/the-design-of-web-apis/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;The Design of Web APIs&lt;/em&gt; provides comprehensive guidance on designing well-structured, consumer-friendly web APIs. The book covers fundamental principles of API design, focusing on creating intuitive, consistent, and easy-to-use interfaces that prioritize the consumer&amp;rsquo;s perspective.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fundamentals of API Design&lt;/strong&gt; - An API interface should be an easy-to-understand and easy-to-use representation of what users can do, without bothering them with irrelevant inner-working concerns.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Consumer Perspective&lt;/strong&gt; - Always try to avoid the provider perspective when designing your API. Consumers don&amp;rsquo;t care about your software architecture choices; they care about seeing all the information they need easily.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

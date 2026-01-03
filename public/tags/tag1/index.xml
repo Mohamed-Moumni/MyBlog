@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag1 on Mmoumni</title>
+    <link>http://localhost:8080/tags/tag1/</link>
+    <description>Recent content in Tag1 on Mmoumni</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Title</title>
+      <link>http://localhost:8080/books/_template/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/books/_template/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;Write your book summary and notes here. This content will be displayed on your blog.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Point 1&lt;/li&gt;&#xA;&lt;li&gt;Point 2&lt;/li&gt;&#xA;&lt;li&gt;Point 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;my-thoughts&#34;&gt;My Thoughts&lt;/h2&gt;&#xA;&lt;p&gt;Add your personal thoughts and reflections about the book here.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;💡 &lt;strong&gt;Note:&lt;/strong&gt; You can copy your content from Notion and paste it here. The original Notion page link will be displayed at the top if you include the &lt;code&gt;notionLink&lt;/code&gt; parameter.&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>

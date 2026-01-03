@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Professional Development on Mmoumni</title>
+    <link>http://localhost:8080/tags/professional-development/</link>
+    <description>Recent content in Professional Development on Mmoumni</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/professional-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Work</title>
+      <link>http://localhost:8080/books/deep-work/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/books/deep-work/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Deep Work&lt;/em&gt; by Cal Newport argues that the ability to perform deep, focused work is becoming increasingly rare and valuable in our economy. The book provides strategies for cultivating the ability to work without distraction on cognitively demanding tasks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Deep Work is Valuable&lt;/strong&gt; - In the new economy, three groups have advantages: those who work effectively with intelligent machines, those who are the best at what they do, and those with access to capital. If you can&amp;rsquo;t learn, you can&amp;rsquo;t thrive.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

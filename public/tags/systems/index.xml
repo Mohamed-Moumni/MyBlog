@@ -2,18 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Systems on Mmoumni</title>
-    <link>http://localhost:1313/tags/systems/</link>
+    <link>http://localhost:8080/tags/systems/</link>
     <description>Recent content in Systems on Mmoumni</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/systems/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building the BotolaPro Fantasy App Part2: Build the Scraper Service</title>
+      <link>http://localhost:8080/posts/building-the-botolapro-fantasy-app-part2-build-the-scraper-service/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/posts/building-the-botolapro-fantasy-app-part2-build-the-scraper-service/</guid>
+      <description>&lt;h1 id=&#34;building-the-botolapro-fantasy-app-part2-build-the-scraper-service&#34;&gt;Building the BotolaPro Fantasy App Part2: Build the Scraper Service&lt;/h1&gt;&#xA;&lt;p&gt;To understand what this article is about, checkout the previous post at:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mmoumni.com/posts/building-the-botolapro-fantasy-app-part1-scrapping-the-base-data/&#34;&gt;https://mmoumni.com/posts/building-the-botolapro-fantasy-app-part1-scrapping-the-base-data&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the previous article, I discussed the high-level architecture of the entire application. In this article, I will focus on the scraper service.&lt;/p&gt;&#xA;&lt;h1 id=&#34;system-design&#34;&gt;System Design:&lt;/h1&gt;&#xA;&lt;p&gt;To avoid distracting myself with too many actions that the scraper API could support, I chose to start small and extend it as needs arise.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>what I learned from the reimplementation of ping command in C</title>
-      <link>http://localhost:1313/posts/reimplementation-ping-command-in-c/</link>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/reimplementation-ping-command-in-c/</guid>
+      <link>http://localhost:8080/posts/reimplementation-ping-command-in-c/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/posts/reimplementation-ping-command-in-c/</guid>
       <description>&lt;p&gt;I’ve always struggled to fully grasp the networking side of software development — especially when it comes to network programming concepts like sockets, binding, TCP/IP, and protocols.&lt;/p&gt;&#xA;&lt;p&gt;So, I decided to take on the challenge and fill in the gaps in my understanding. To do that, I chose to reimplement three well-known networking commands: &lt;code&gt;ping&lt;/code&gt;, &lt;code&gt;traceroute&lt;/code&gt;, and a simplified version of &lt;code&gt;nmap&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;In this series of articles, I’ll explain each command in detail — its use case and how it works under the hood.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building the BotolaPro Fantasy App Part1: Scrapping the Base Data</title>
+      <link>http://localhost:8080/posts/building-the-botolapro-fantasy-app-part1-scrapping-the-base-data/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/posts/building-the-botolapro-fantasy-app-part1-scrapping-the-base-data/</guid>
+      <description>&lt;h1 id=&#34;building-the-botolapro-fantasy-app-part1-scrapping-the-base-data&#34;&gt;Building the BotolaPro Fantasy App Part1: Scrapping the Base Data&lt;/h1&gt;&#xA;&lt;h1 id=&#34;introduction&#34;&gt;Introduction:&lt;/h1&gt;&#xA;&lt;p&gt;If you are following my previous blogs, you may have noticed that i wrote a blog post about why i stopped watching football. You might be thinking: what is this guy doing? He Said he stopped watching football, and now he’s trying to build football game. Let me clarify why i’m doing this.&lt;/p&gt;&#xA;&lt;p&gt;My main Goal is to learn about mobile application development. While exploring ideas, I realized that there is no fantasy app for the Moroccan Botola Pro League. I thought this could be a good exercise to apply the skills I will learn during my mobile development journey, and it also seemed quite challenging.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Backend Engineering from the first Principles</title>
+      <link>http://localhost:8080/posts/backend-engineering-from-the-first-principles/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/posts/backend-engineering-from-the-first-principles/</guid>
+      <description>&lt;p&gt;In this Era of AI, I often find myself reflecting on the software engineering field. I’ve observed several emerging patterns among new software engineers. Although i’m still a junior, I definitely see myself as part of that group.&lt;/p&gt;&#xA;&lt;p&gt;New coming engineers are heavily relying on AI tools; however, they haven’t spent enough time building things that would give them the experience and knowledge needed to use those tools with real confidence. I’m referring to the core fundamentals of software engineering not frameworks or technologies that shift every few months.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ft_nmap</title>
+      <link>http://localhost:8080/projects/ft_nmap/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/projects/ft_nmap/</guid>
+      <description>&lt;h1 id=&#34;ft_nmap&#34;&gt;ft_nmap&lt;/h1&gt;&#xA;&lt;p&gt;A small project that re-implements parts of an &lt;code&gt;nmap&lt;/code&gt;-style port scanner in C. The goal is educational: to understand how a port scanner works (socket usage, scan strategies, parallelism, parsing IP lists, etc.) and to produce a compact, self-contained scanner executable.&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;In this project, I re-coded a part of the nmap port scanner to deepen my understanding of network scanning techniques, socket programming, and low-level networking concepts.&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TCP port scanning over a range of ports&lt;/li&gt;&#xA;&lt;li&gt;Processing multiple IPs from a file&lt;/li&gt;&#xA;&lt;li&gt;Modular architecture with separate components for scanning, parsing, and network mapping&lt;/li&gt;&#xA;&lt;li&gt;CLI binary implemented in C&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;technologies-used&#34;&gt;Technologies Used&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;C&lt;/strong&gt; - Core implementation language&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Socket Programming&lt;/strong&gt; - Raw sockets and network communication&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Make&lt;/strong&gt; - Build system&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;repository&#34;&gt;Repository&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Mohamed-Moumni/ft_nmap&#34;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ft_ping</title>
+      <link>http://localhost:8080/projects/ft_ping/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/projects/ft_ping/</guid>
+      <description>&lt;h1 id=&#34;ft_ping&#34;&gt;ft_ping&lt;/h1&gt;&#xA;&lt;p&gt;A complete reimplementation of the &lt;code&gt;ping&lt;/code&gt; command in C, built to understand how network diagnostics work at a low level. This project dives deep into the ICMP protocol, raw sockets, and the fundamentals of network programming.&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;code&gt;ping&lt;/code&gt; command is a network administration utility used to test the reachability of a host on a network. Reimplementing it from scratch provides invaluable insights into how network protocols operate, how packets are constructed and sent, and how the operating system handles network communication.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Concurrency on Mmoumni</title>
+    <link>http://localhost:8080/tags/concurrency/</link>
+    <description>Recent content in Concurrency on Mmoumni</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/concurrency/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn Concurrent Programming In Go</title>
+      <link>http://localhost:8080/books/learn-concurrent-programming-in-go/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/books/learn-concurrent-programming-in-go/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Learn Concurrent Programming In Go&lt;/em&gt; provides a comprehensive guide to building concurrent applications using Go&amp;rsquo;s powerful concurrency primitives. The book covers goroutines, channels, and patterns for building responsive and high-performance software.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Stepping into Concurrent Programming in Go&lt;/strong&gt; - Concurrent programming allows us to build more responsive software. Concurrent programs can also provide increased speedup when running on multiple processors.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;my-thoughts&#34;&gt;My Thoughts&lt;/h2&gt;&#xA;&lt;p&gt;An essential resource for mastering Go&amp;rsquo;s concurrency features and building efficient, scalable concurrent applications.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Go In Action</title>
+      <link>http://localhost:8080/books/go-in-action/</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/books/go-in-action/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Go In Action&lt;/em&gt; is a practical guide to the Go programming language that covers core concepts and demonstrates how to build real-world applications. The book provides hands-on examples and covers essential Go features including concurrency, packages, and best practices.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;&#xA;&lt;p&gt;This book covers various chapters on Go programming fundamentals, including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Chapter 2&lt;/strong&gt; - Core Go concepts and language fundamentals&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Chapter 4&lt;/strong&gt; - Advanced Go features and patterns&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Chapter 5&lt;/strong&gt; - Building applications with Go&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Chapter 6&lt;/strong&gt; - Practical implementation techniques&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;my-thoughts&#34;&gt;My Thoughts&lt;/h2&gt;&#xA;&lt;p&gt;A comprehensive guide for learning Go programming through practical examples and real-world application development.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

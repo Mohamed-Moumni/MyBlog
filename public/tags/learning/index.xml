@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning on Mmoumni</title>
+    <link>http://localhost:8080/tags/learning/</link>
+    <description>Recent content in Learning on Mmoumni</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Mind For Numbers</title>
+      <link>http://localhost:8080/books/a-mind-for-numbers/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/books/a-mind-for-numbers/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;A Mind For Numbers&lt;/em&gt; by Barbara Oakley provides practical techniques for learning effectively and mastering challenging subjects. The book covers essential learning strategies including chunking, memory enhancement, procrastination prevention, and evidence-based study methods.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Chunking&lt;/strong&gt; - Break down complex information into manageable chunks by focusing attention, understanding the basic idea, and gaining context for when to use it.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Avoiding Illusions of Competence&lt;/strong&gt; - You must have information persisting in your memory to master material. Practice recalling material outside your usual study place.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Productivity on Mmoumni</title>
+    <link>http://localhost:8080/tags/productivity/</link>
+    <description>Recent content in Productivity on Mmoumni</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Work</title>
+      <link>http://localhost:8080/books/deep-work/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/books/deep-work/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Deep Work&lt;/em&gt; by Cal Newport argues that the ability to perform deep, focused work is becoming increasingly rare and valuable in our economy. The book provides strategies for cultivating the ability to work without distraction on cognitively demanding tasks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Deep Work is Valuable&lt;/strong&gt; - In the new economy, three groups have advantages: those who work effectively with intelligent machines, those who are the best at what they do, and those with access to capital. If you can&amp;rsquo;t learn, you can&amp;rsquo;t thrive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Mind For Numbers</title>
+      <link>http://localhost:8080/books/a-mind-for-numbers/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/books/a-mind-for-numbers/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;A Mind For Numbers&lt;/em&gt; by Barbara Oakley provides practical techniques for learning effectively and mastering challenging subjects. The book covers essential learning strategies including chunking, memory enhancement, procrastination prevention, and evidence-based study methods.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Chunking&lt;/strong&gt; - Break down complex information into manageable chunks by focusing attention, understanding the basic idea, and gaining context for when to use it.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Avoiding Illusions of Competence&lt;/strong&gt; - You must have information persisting in your memory to master material. Practice recalling material outside your usual study place.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

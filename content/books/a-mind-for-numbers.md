@@ -13,5 +13,3 @@ tags: ["Learning", "Education", "Productivity", "Memory", "Study Techniques"]
 
 ---
 
-📚 **Read my full notes on [Notion](https://www.notion.so/mmoumni/A-Mind-For-Numbers-90a2867a3d1f403996694ff8bfc0f87e)**
-

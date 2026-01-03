@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICMP on Mmoumni</title>
+    <link>http://localhost:8080/tags/icmp/</link>
+    <description>Recent content in ICMP on Mmoumni</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/icmp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ft_ping</title>
+      <link>http://localhost:8080/projects/ft_ping/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/projects/ft_ping/</guid>
+      <description>&lt;h1 id=&#34;ft_ping&#34;&gt;ft_ping&lt;/h1&gt;&#xA;&lt;p&gt;A complete reimplementation of the &lt;code&gt;ping&lt;/code&gt; command in C, built to understand how network diagnostics work at a low level. This project dives deep into the ICMP protocol, raw sockets, and the fundamentals of network programming.&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;code&gt;ping&lt;/code&gt; command is a network administration utility used to test the reachability of a host on a network. Reimplementing it from scratch provides invaluable insights into how network protocols operate, how packets are constructed and sent, and how the operating system handles network communication.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

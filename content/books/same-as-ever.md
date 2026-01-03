@@ -13,5 +13,4 @@ tags: ["Psychology", "Behavior", "Risk", "Philosophy", "Storytelling"]
 
 ---
 
-📚 **Read my full notes on [Notion](https://www.notion.so/mmoumni/Same-as-Ever-93efa7be5d904cbc85f1c72382145193)**
 

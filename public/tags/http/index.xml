@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTTP on Mmoumni</title>
+    <link>http://localhost:8080/tags/http/</link>
+    <description>Recent content in HTTP on Mmoumni</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/http/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HTTP WebServer</title>
+      <link>http://localhost:8080/projects/http-webserver/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/projects/http-webserver/</guid>
+      <description>&lt;h1 id=&#34;http-webserver&#34;&gt;HTTP WebServer&lt;/h1&gt;&#xA;&lt;p&gt;This project is about writing an HTTP server from scratch and learning about how the HTTP protocol works around the web. It&amp;rsquo;s a hands-on exploration of web server architecture, request handling, and protocol implementation.&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Building an HTTP server from the ground up provides deep insights into how web applications communicate, how requests are parsed, and how responses are constructed and sent back to clients.&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTTP request parsing&lt;/li&gt;&#xA;&lt;li&gt;HTTP response generation&lt;/li&gt;&#xA;&lt;li&gt;Static file serving&lt;/li&gt;&#xA;&lt;li&gt;Support for multiple HTTP methods&lt;/li&gt;&#xA;&lt;li&gt;Modular server architecture&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;technologies-used&#34;&gt;Technologies Used&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;C++&lt;/strong&gt; - Core implementation language&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;HTML/CSS&lt;/strong&gt; - Web content&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Socket Programming&lt;/strong&gt; - Network communication&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Make&lt;/strong&gt; - Build system&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;repository&#34;&gt;Repository&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Mohamed-Moumni/HTTP-WebServer&#34;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
