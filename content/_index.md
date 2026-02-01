@@ -29,7 +29,7 @@ Hi there 👋 I'm **Mohamed Moumni**, a passionate backend developer focused on 
 
 ## 🌍 Let's Connect
 
-- Email: [Gmail](emailto:mmoumniwork@gmail.com)
+- Email: [Gmail](mailto:mmoumniwork@gmail.com)
 - GitHub: [Mohamed-Moumni](https://github.com/Mohamed-Moumni)
 - LinkedIn: [Linkedin](https://linkedin.com/in/mmoumni)
 - Medium: [Medium](https://medium.com/@Rigor_08)
