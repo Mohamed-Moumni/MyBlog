@@ -2,6 +2,8 @@
 title: "Books"
 date: 2025-01-01
 draft: false
+description: "A curated reading list by Mohamed Moumni covering software engineering, systems design, computer science, and personal development — with key takeaways and notes for each book."
+keywords: ["books", "reading list", "software engineering", "systems design", "computer science", "book notes"]
 ---
 
 A curated list of books I've read, covering topics in software engineering, systems design, computer science, and more. Each entry includes my thoughts, key takeaways, and detailed notes.

@@ -3,6 +3,13 @@ languageCode = "en-us"
 title = "mmoumni"
 theme = "terminal"
 
+enableRobotsTXT = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   centerTheme = true
   primaryColor = "#1a73e8"
@@ -11,6 +18,10 @@ theme = "terminal"
   # Custom author (if not globally defined)
   author = "Mohamed Moumni"
 
+  [params.twitter]
+    creator = "@moumni_08"
+    site = "@moumni_08"
+
 
 [languages]
   [languages.en]
@@ -18,10 +29,10 @@ theme = "terminal"
     title = "Mmoumni"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
-      owner = ""
-      keywords = ""
-      copyright = ""
+      subtitle = "Mohamed Moumni — Backend Developer & Systems Engineer writing about Go, C/C++, distributed systems, and networking."
+      owner = "Mohamed Moumni"
+      keywords = "backend development, Go, C++, systems engineering, distributed systems, networking, software engineering"
+      copyright = "© 2025 Mohamed Moumni"
       menuMore = "Show more"
       readMore = "Read more"
       readOtherPosts = "Read other posts"
