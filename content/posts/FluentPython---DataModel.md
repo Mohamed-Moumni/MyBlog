@@ -3,8 +3,8 @@ title: "FluentPython - DataModel"
 date: 2026-03-15
 draft: false
 description: "The backbone of Python programming language that formalizes the interfaces for building blocks like sequences, iterators, and functions."
-tags: ["Programming-Languages-systems-Python"]
-categories: ["Programming-Languages-systems-Python"]
+tags: ["Programming", "Languages", "systems", "Python"]
+categories: ["Programming", "Languages", "systems", "Python"]
 slug: "Fluent Python - DataModel"
 ---
 
