@@ -18,8 +18,8 @@ I'm not claiming that experience doesn't worth anything at all — that's not my
 
 With this AI technology, the speed of exploring those areas and getting real feedback is getting faster, especially with people who really want to go deeper and learn things.
 
-![The shift in what creates value: from experience to curiosity plus AI](/images/Experience-Doesnt-Matter-Anymore/experience-value-shift.svg)
-
 Someone who is recently graduated or with 2 or 3 years of experience but with eagerness to learn and explore deep areas in their domain of expertise using AI will be more valuable than someone who is relying on their experience to produce value. The market and capitalism reward people who reduce friction and create real value for the business by solving complex problems and moving the needle forward, regardless of your years of experience.
 
 My last take is yes, experience is valuable but it's not enough. You need to enhance it with AI to get more experienced.
+
+It's Human Written :)
