@@ -34,6 +34,26 @@ I'm **Mohamed Moumni**, a Product Engineer who focused on building robust, scala
   
 ---
 
+## 💼 Professional Experience
+
+**Software Engineer** — Umnia Bank *(April 2025 – Present)*
+- Built and shipped a loan simulation platform (FastAPI, React) adopted by 50+ agencies, replacing a manual process
+- Delivered an intranet application serving 3000+ users across 10+ departments, with role-based access
+- Designed an OTP validation service in FastAPI with in-house generation and verification
+- Deployed and maintained the Uconnect mobile backend (Windows Server) and Ucorporate Application (Linux)
+- Automated release workflows with Ansible and Bash, reducing deployment time
+- Built CI/CD pipelines with GitLab CI and self-hosted runners, introducing automated testing and deployment
+
+**Technical Consultant** — Karizma Consulting Group *(December 2023 – February 2025)*
+- Contributed to backend services in the Karizma.one project, implementing features and optimizations
+- Developed an AI-powered Text-to-SQL system integrated with Odoo, using the GPT API to convert natural language queries into SQL for seamless data retrieval
+- Fine-tuned the model based on the Odoo database schema, gaining experience in prompt engineering and NLP techniques
+- Collaborated with the development team on client projects using Agile methodologies
+- Created and customized OWL components for the front-end, enhancing user interface and experience
+- Troubleshot and resolved broken CI/CD GitLab pipelines and Bash/Ansible scripts, improving build reliability and reducing deployment failures
+
+---
+
 ## 🌍 Let's Connect
 
 - Email: [Gmail](mailto:mmoumniwork@gmail.com)
