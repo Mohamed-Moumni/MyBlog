@@ -36,7 +36,7 @@ I'm **Mohamed Moumni**, a Product Engineer who focused on building robust, scala
 
 ## 💼 Professional Experience
 
-**Software Engineer** — Umnia Bank *(April 2025 – Present)*
+**Software/DevOps Engineer** — Umnia Bank *(April 2025 – Present)*
 - Built and shipped a loan simulation platform (FastAPI, React) adopted by 50+ agencies, replacing a manual process
 - Delivered an intranet application serving 3000+ users across 10+ departments, with role-based access
 - Designed an OTP validation service in FastAPI with in-house generation and verification
